@@ -92,13 +92,6 @@ A cutting-edge AI-powered solution for **automated inventory management**, **rea
 
 📥 **Export Options**: Downloadable CSV reports of predictions and inventory status.
 
-⚠️ **Alerts**: Integrated spoilage alert system.
-
----
-
-Great idea, Satwik! Let's add a clean, well-organized section called **📁 File Structure & Purpose** to explain what each file or folder in your project is used for. Here's how you can insert it into your README (right before or after the `📦 Installation & Requirements` section):
-
----
 
 ### 📁 File Structure & Purpose
 
@@ -125,8 +118,6 @@ Great idea, Satwik! Let's add a clean, well-organized section called **📁 File
 
 
 ---
-
-You can adjust or expand this table depending on how your repo is structured. If you want, I can take a peek at the actual folder layout and auto-generate this for you too. Just let me know.
 
 ## 📦 Installation & Requirements
 
